@@ -35,7 +35,3 @@ This project demonstrates how to use [Quadratic](https://www.quadratichq.com) â€
 - How to mix Python and SQL inside a spreadsheet
 - How to build portfolio projects using modern tools
 
-## ðŸš€ Future Ideas
-- Crop yield dashboard using real-time sensors
-- Connect live database to track inventory or expenses
-
